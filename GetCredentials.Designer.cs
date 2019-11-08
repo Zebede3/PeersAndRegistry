@@ -59,7 +59,7 @@
             this.pass_box.PasswordChar = '*';
             this.pass_box.Size = new System.Drawing.Size(124, 20);
             this.pass_box.TabIndex = 3;
-            this.pass_box.Text = "Fr4nkZ4pp4PBX!";
+            this.pass_box.Text = "";
             // 
             // label1
             // 
